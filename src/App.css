@@ -27,8 +27,9 @@ button:hover {
 }
 
 .card-grid {
-  margin-top: 40px;
+  margin-top: 20px;
   display: grid;
+  align-items: center;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-gap: 20px;
+  grid-gap: 10px;
 }

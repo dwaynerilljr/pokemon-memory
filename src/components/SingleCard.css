@@ -1,13 +1,15 @@
 .card {
     position: relative;
+    cursor: pointer;
 }
 
 .card img {
-    height: 150px;
-    width: 150px;
+    height: 160px;
+    width: 160px;
     display: block;
     border: 2px solid #fff;
     border-radius: 6px;
+    padding: 10px;
 }
 
 .card .front {
